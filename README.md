@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Calories Burned Prediction (Regression Project)
 
-This project predicts the number of calories burned based on features like age, weight, height, heart rate, and body temperature using machine learning models.
+This project predicts the number of calories burned based on features like age, weight, height, heart rate, and body temperature using machine learning models for a kaggle competition.
 
 ---
 
@@ -52,4 +52,4 @@ This project predicts the number of calories burned based on features like age, 
 ---
 
 ## 🏅 Goal
-Maximize leaderboard score (minimize **RMSLE**) by blending multiple models and smart feature engineering.
+Maximize Kaggle leaderboard score (minimize **RMSLE**) by blending multiple models and smart feature engineering.
